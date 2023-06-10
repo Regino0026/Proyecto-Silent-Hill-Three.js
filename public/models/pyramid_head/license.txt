@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pyramid Head - Silent Hill 2
+* source:	https://sketchfab.com/3d-models/pyramid-head-silent-hill-2-ba665f20056a41c98aa7cb6c56663105
+* author:	kmilo2008 (https://sketchfab.com/kmilo2008)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pyramid Head - Silent Hill 2" (https://sketchfab.com/3d-models/pyramid-head-silent-hill-2-ba665f20056a41c98aa7cb6c56663105) by kmilo2008 (https://sketchfab.com/kmilo2008) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

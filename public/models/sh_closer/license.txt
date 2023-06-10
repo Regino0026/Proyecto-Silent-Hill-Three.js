@@ -1,0 +1,11 @@
+Model Information:
+* title:	Closer - Silent Hill 3
+* source:	https://sketchfab.com/3d-models/closer-silent-hill-3-de9807d714b9486383a1b83fe438dfc4
+* author:	ShaxerTakkuY (https://sketchfab.com/ShaxerTakkuY)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Closer - Silent Hill 3" (https://sketchfab.com/3d-models/closer-silent-hill-3-de9807d714b9486383a1b83fe438dfc4) by ShaxerTakkuY (https://sketchfab.com/ShaxerTakkuY) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

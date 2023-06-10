@@ -1,0 +1,11 @@
+Model Information:
+* title:	SH_BUILDING_13
+* source:	https://sketchfab.com/3d-models/sh-building-13-c4ce6ed9e7c94b0387851b1d591350cd
+* author:	Giromancy (https://sketchfab.com/Giromancy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SH_BUILDING_13" (https://sketchfab.com/3d-models/sh-building-13-c4ce6ed9e7c94b0387851b1d591350cd) by Giromancy (https://sketchfab.com/Giromancy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

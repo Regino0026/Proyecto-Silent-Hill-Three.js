@@ -1,0 +1,11 @@
+Model Information:
+* title:	Maria - Silent Hill 2
+* source:	https://sketchfab.com/3d-models/maria-silent-hill-2-9ce11e427ba649cd95a8428a0add59cf
+* author:	kmilo2008 (https://sketchfab.com/kmilo2008)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Maria - Silent Hill 2" (https://sketchfab.com/3d-models/maria-silent-hill-2-9ce11e427ba649cd95a8428a0add59cf) by kmilo2008 (https://sketchfab.com/kmilo2008) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
